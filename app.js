@@ -1,4 +1,4 @@
-const apikey = "fe63223b20989ffe50dc4be89b8fb6ce" ;
+const apikey = "3cd8af3eb832c4cf483e6f7fa2765fb5" ;
 const apiurl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 const wicon = document.querySelector(".weather-icon");
 async function theweather(city="munnar")
